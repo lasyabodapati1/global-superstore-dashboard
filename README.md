@@ -19,3 +19,4 @@ This project explores trends in sales, profit, customer segments, shipping times
 [ View on Tableau Public](https://public.tableau.com/app/profile/lasya.bodapati/viz/SuperStoreDataViz_17442481620140/Dashboard1)
 
 ## Dashboard Preview 
+![Dashboard Preview](KPI Dashboard - Super Store.png)
