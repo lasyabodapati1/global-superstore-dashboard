@@ -14,7 +14,8 @@ This project explores trends in sales, profit, customer segments, shipping times
 ## Tools Used
 - Tableau (for dashboarding)
 
-## 🔗 Live Dashboard
+##  Live Dashboard
 
 [ View on Tableau Public](https://public.tableau.com/app/profile/lasya.bodapati/viz/SuperStoreDataViz_17442481620140/Dashboard1)
 
+## Dashboard Preview 
